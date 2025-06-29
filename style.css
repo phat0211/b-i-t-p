@@ -1,0 +1,13 @@
+
+
+.app {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.app button {
+    border-radius: 3px;
+    border: none;
+    background-color: #7bf9b6;
+    color: #fff;
+}
