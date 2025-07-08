@@ -8,7 +8,7 @@ function sayHello() {
   const name = document.getElementById("student-name").value.trim();
   const greeting = document.getElementById("greeting");
   if (name) {
-    greeting.innerText = "Xin chào, ${name}!";
+    greeting.innerText = `Xin chào, ${name}!`;
   } else {
     greeting.innerText = "Vui lòng nhập tên!";
   }
